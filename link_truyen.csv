@@ -1,426 +1,640 @@
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap0.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-0/529826
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap1.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-213/831298
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap2.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-1/529953
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap3.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-212/830854
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap4.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-211/830825
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap5.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-210/830598
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap6.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-209/822810
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap7.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-208/822650
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap8.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-207/819424
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap9.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-206/816882
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap10.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-205/816598
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap11.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-204/804637
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap12.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-203/800481
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap13.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-202/797665
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap14.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-201/796171
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap15.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-200/795847
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap16.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-199/793088
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap17.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-198/791559
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap18.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-197/787176
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap19.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-196/787175
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap20.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-195/787174
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap21.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-194/787173
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap22.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-193/787172
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap23.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-192/787171
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap24.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-191/787170
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap25.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-190/787169
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap26.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-189/787168
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap27.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-188/787167
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap28.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-187/787166
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap29.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-186/787165
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap30.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-185/787164
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap31.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-184/787163
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap32.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-183/787162
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap33.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-182/787161
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap34.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-181/787160
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap35.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-180/787159
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap36.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-179/787158
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap37.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-178/787157
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap38.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-177/787156
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap39.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-176/787155
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap40.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-175/787154
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap41.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-174/787153
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap42.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-173/787152
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap43.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-172/787151
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap44.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-171/787150
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap45.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-170/787149
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap46.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-169/787148
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap47.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-168/787147
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap48.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-167/787146
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap49.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-166/787145
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap50.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-165/787144
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap51.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-164/787143
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap52.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-163/787142
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap53.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-162/787141
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap54.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-161/787140
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap55.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-160/787139
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap56.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-159/787138
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap57.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-158/787137
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap58.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-157/787136
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap59.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-156/787135
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap60.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-155/787134
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap61.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-154/787133
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap62.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-153/787132
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap63.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-152/787131
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap64.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-151/787130
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap65.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-150/787129
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap66.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-149/787128
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap67.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-148/787127
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap68.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-147/787126
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap69.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-146/787125
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap70.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-145/787124
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap71.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-144/787123
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap72.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-143/787122
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap73.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-142/787121
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap74.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-141/787120
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap75.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-140/787119
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap76.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-139/787118
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap77.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-138/787117
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap78.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-137/787116
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap79.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-136/787115
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap80.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-135/787114
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap81.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-134/787113
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap82.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-133/787112
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap83.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-132/787111
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap84.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-131/787110
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap85.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-130/787109
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap86.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-129/787108
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap87.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-128/787107
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap88.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-127/787106
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap89.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-126/787105
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap90.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-125/787104
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap91.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-124/787103
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap92.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-123/787102
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap93.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-122/787101
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap94.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-121/787100
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap95.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-120/787099
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap96.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-119/787098
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap97.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-118/787097
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap98.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-117/787096
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap99.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-116/787095
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap100.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-115/787094
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap101.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-114/787093
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap102.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-113/787092
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap103.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-112/787091
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap104.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-111/787090
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap105.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-109/787088
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap106.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-108/787087
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap107.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-107/787086
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap108.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-106/787085
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap109.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-105/787084
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap110.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-104/787083
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap111.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-103/787082
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap112.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-102/787081
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap113.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-101/787080
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap114.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-100/787079
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap115.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-99/787078
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap116.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-98/787077
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap117.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-97/787076
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap118.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-96/787075
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap119.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-95/787074
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap120.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-94/787073
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap121.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-93/787072
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap122.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-92/787071
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap123.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-91/787070
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap124.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-90/787069
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap125.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-89/787068
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap126.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-88/787067
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap127.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-87/787066
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap128.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-86/787065
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap129.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-85/787064
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap130.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-84/787063
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap131.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-83/787062
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap132.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-82/787061
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap133.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-81/787060
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap134.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-80/787059
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap135.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-79/787058
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap136.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-78/787057
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap137.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-77/787056
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap138.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-76/787055
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap139.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-75/787054
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap140.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-74/787053
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap141.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-73/787052
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap142.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-72/787051
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap143.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-71/787050
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap144.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-70/787049
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap145.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-69/787048
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap146.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-68/787047
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap147.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-67/787046
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap148.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-66/787045
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap149.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-65/787044
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap150.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-64/787043
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap151.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-63/787042
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap152.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-62/787041
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap153.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-61/787040
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap154.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-60/787039
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap155.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-59/706625
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap156.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-58/706624
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap157.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-57/706623
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap158.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-56/706622
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap159.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-55/706621
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap160.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-54/706620
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap161.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-53/706619
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap162.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-52/706618
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap163.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-51/706617
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap164.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-50/618494
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap165.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-49/617982
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap166.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-48/617304
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap167.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-47/613258
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap168.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-46/612544
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap169.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-45/612082
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap170.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-44/611778
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap171.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-43/603823
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap172.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-42/602994
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap173.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-41/602601
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap174.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-40/567485
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap175.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-39/567242
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap176.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-38/566848
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap177.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-37/565243
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap178.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-36/565156
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap179.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-35/561233
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap180.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-34/560939
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap181.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-33/560800
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap182.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-32/560491
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap183.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-31/560255
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap184.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-30/558894
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap185.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-29/558644
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap186.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-28/553805
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap187.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-27/553542
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap188.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-26/552974
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap189.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-25/552202
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap190.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-24/551878
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap191.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-23/546163
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap192.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-22/545288
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap193.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-21/544975
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap194.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-20/544628
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap195.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-19/544271
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap196.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-18/543810
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap197.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-17/541434
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap198.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-16/541148
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap199.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-15/540838
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap200.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-14/540705
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap201.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-13/538103
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap202.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-12/537934
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap203.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-11/537776
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap204.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-10/537604
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap205.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-9/537404
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap206.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-8/534553
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap207.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-7/533867
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap208.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-6/532967
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap209.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-5/532595
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap210.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-4/532498
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap211.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-3/531452
-Start-Sleep 5
-chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap212.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-2/531231
+0
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap0.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-0/529826
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap1.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-213/831298
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap2.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-1/529953
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap3.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-212/830854
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap4.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-211/830825
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap5.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-210/830598
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap6.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-209/822810
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap7.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-208/822650
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap8.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-207/819424
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap9.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-206/816882
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap10.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-205/816598
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap11.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-204/804637
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap12.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-203/800481
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap13.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-202/797665
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap14.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-201/796171
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap15.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-200/795847
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap16.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-199/793088
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap17.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-198/791559
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap18.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-197/787176
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap19.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-196/787175
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap20.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-195/787174
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap21.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-194/787173
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap22.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-193/787172
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap23.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-192/787171
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap24.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-191/787170
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap25.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-190/787169
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap26.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-189/787168
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap27.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-188/787167
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap28.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-187/787166
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap29.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-186/787165
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap30.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-185/787164
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap31.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-184/787163
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap32.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-183/787162
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap33.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-182/787161
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap34.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-181/787160
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap35.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-180/787159
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap36.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-179/787158
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap37.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-178/787157
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap38.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-177/787156
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap39.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-176/787155
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap40.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-175/787154
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap41.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-174/787153
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap42.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-173/787152
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap43.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-172/787151
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap44.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-171/787150
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap45.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-170/787149
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap46.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-169/787148
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap47.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-168/787147
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap48.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-167/787146
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap49.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-166/787145
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap50.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-165/787144
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap51.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-164/787143
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap52.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-163/787142
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap53.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-162/787141
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap54.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-161/787140
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap55.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-160/787139
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap56.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-159/787138
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap57.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-158/787137
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap58.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-157/787136
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap59.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-156/787135
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap60.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-155/787134
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap61.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-154/787133
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap62.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-153/787132
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap63.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-152/787131
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap64.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-151/787130
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap65.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-150/787129
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap66.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-149/787128
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap67.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-148/787127
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap68.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-147/787126
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap69.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-146/787125
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap70.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-145/787124
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap71.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-144/787123
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap72.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-143/787122
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap73.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-142/787121
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap74.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-141/787120
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap75.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-140/787119
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap76.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-139/787118
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap77.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-138/787117
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap78.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-137/787116
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap79.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-136/787115
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap80.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-135/787114
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap81.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-134/787113
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap82.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-133/787112
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap83.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-132/787111
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap84.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-131/787110
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap85.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-130/787109
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap86.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-129/787108
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap87.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-128/787107
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap88.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-127/787106
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap89.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-126/787105
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap90.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-125/787104
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap91.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-124/787103
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap92.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-123/787102
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap93.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-122/787101
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap94.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-121/787100
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap95.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-120/787099
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap96.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-119/787098
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap97.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-118/787097
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap98.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-117/787096
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap99.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-116/787095
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap100.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-115/787094
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap101.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-114/787093
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap102.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-113/787092
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap103.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-112/787091
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap104.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-111/787090
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap105.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-109/787088
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap106.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-108/787087
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap107.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-107/787086
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap108.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-106/787085
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap109.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-105/787084
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap110.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-104/787083
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap111.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-103/787082
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap112.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-102/787081
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap113.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-101/787080
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap114.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-100/787079
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap115.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-99/787078
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap116.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-98/787077
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap117.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-97/787076
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap118.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-96/787075
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap119.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-95/787074
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap120.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-94/787073
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap121.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-93/787072
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap122.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-92/787071
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap123.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-91/787070
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap124.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-90/787069
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap125.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-89/787068
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap126.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-88/787067
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap127.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-87/787066
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap128.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-86/787065
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap129.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-85/787064
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap130.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-84/787063
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap131.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-83/787062
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap132.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-82/787061
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap133.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-81/787060
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap134.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-80/787059
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap135.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-79/787058
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap136.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-78/787057
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap137.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-77/787056
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap138.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-76/787055
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap139.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-75/787054
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap140.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-74/787053
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap141.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-73/787052
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap142.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-72/787051
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap143.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-71/787050
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap144.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-70/787049
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap145.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-69/787048
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap146.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-68/787047
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap147.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-67/787046
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap148.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-66/787045
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap149.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-65/787044
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap150.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-64/787043
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap151.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-63/787042
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap152.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-62/787041
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap153.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-61/787040
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap154.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-60/787039
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap155.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-59/706625
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap156.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-58/706624
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap157.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-57/706623
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap158.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-56/706622
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap159.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-55/706621
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap160.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-54/706620
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap161.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-53/706619
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap162.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-52/706618
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap163.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-51/706617
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap164.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-50/618494
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap165.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-49/617982
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap166.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-48/617304
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap167.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-47/613258
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap168.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-46/612544
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap169.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-45/612082
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap170.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-44/611778
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap171.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-43/603823
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap172.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-42/602994
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap173.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-41/602601
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap174.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-40/567485
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap175.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-39/567242
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap176.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-38/566848
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap177.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-37/565243
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap178.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-36/565156
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap179.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-35/561233
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap180.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-34/560939
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap181.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-33/560800
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap182.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-32/560491
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap183.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-31/560255
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap184.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-30/558894
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap185.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-29/558644
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap186.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-28/553805
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap187.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-27/553542
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap188.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-26/552974
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap189.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-25/552202
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap190.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-24/551878
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap191.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-23/546163
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap192.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-22/545288
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap193.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-21/544975
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap194.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-20/544628
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap195.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-19/544271
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap196.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-18/543810
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap197.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-17/541434
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap198.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-16/541148
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap199.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-15/540838
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap200.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-14/540705
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap201.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-13/538103
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap202.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-12/537934
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap203.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-11/537776
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap204.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-10/537604
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap205.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-9/537404
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap206.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-8/534553
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap207.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-7/533867
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap208.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-6/532967
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap209.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-5/532595
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap210.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-4/532498
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap211.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-3/531452
+    Start-Sleep 6"
+"
+    chrome --enable-logging --headless --disable-gpu --print-to-pdf=d:\chap212.pdf http://www.nettruyenmoi.com/truyen-tranh/bang-son-tong-tai-sung-the-den-vo-dao/chap-2/531231
+    Start-Sleep 6"
