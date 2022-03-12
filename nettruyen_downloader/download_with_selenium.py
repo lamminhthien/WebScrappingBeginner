@@ -42,19 +42,20 @@ class AutoControl():
         pyautogui.hotkey('ctrl','s')
         time.sleep(2)
         pyautogui.press('enter')
-        time.sleep(7)
+        time.sleep(12)
 
 # All instances of classes
-selenium_instance = Selenium()
+
 crawlerChapter = CrawlerAllChaper()
 autoControl = AutoControl()
 
 # Get link chapters list from CrawlerAllChapter
-urlManga = "http://www.nettruyenmoi.com/truyen-tranh/tieu-thu-bi-am-sat-16690"
+urlManga = "http://www.nettruyenmoi.com/truyen-tranh/osananajimi-no-mama-ja-iya-38699"
 chapterList = crawlerChapter.crawler(urlManga)
 
 # for loop, open and download each chapter
 for urlChapter in chapterList:
+    selenium_instance = Selenium()
     selenium_instance.setup_method()
     selenium_instance.open(urlChapter)
     autoControl.autoDownload()
