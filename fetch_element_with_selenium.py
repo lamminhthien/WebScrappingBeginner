@@ -29,13 +29,14 @@ class crawlMangaPageImage():
     # Tìm cái div chứa tất cả các hình
     groupHrefDiv = self.driver.find_element(By.CLASS_NAME,'list_gknews-top').find_elements(By.TAG_NAME,'li')
     # groupHrefDiv = self.driver.find_element(By.TAG_NAME,'li')
+    # a = self.driver.find_element_by_id('a').get_attribute('b').tex
     # List các href
-    hrefList = []
+    #  hrefList = []
 
     # Duyệt cái div đó lấy ra từng page
     for childElement in groupHrefDiv:
         print("Hello")
-        print(childElement.text)
+        print(childElement.get_attribute('data-boxtype'))
         
 
 
