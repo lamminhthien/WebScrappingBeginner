@@ -21,22 +21,23 @@ class crawlMangaPageImage():
     self.driver.quit()
   
   def crawlImage(self):
-    self.driver.get("https://genk.vn/")
+    self.driver.get("http://www.nettruyenmoi.com/truyen-tranh/19-days/chap-454/675633")
     self.driver.set_window_size(682, 518)
-    time.sleep(3)
-    # Click vào server 2 (Load nhanh hơn)
-    # self.driver.find_element(By.LINK_TEXT, "Server 2").click()
+    # with open('page.html', 'w',encoding='utf-8') as f:
+    #   f.write(self.driver.page_source)
+    ActionChains(self.driver).key_down(Keys.COMMAND).send_keys("s").key_up(Keys.COMMAND).perform()
+    time.sleep(5)
     # Tìm cái div chứa tất cả các hình
-    groupHrefDiv = self.driver.find_element(By.CLASS_NAME,'list_gknews-top').find_elements(By.TAG_NAME,'li')
+    # groupImageDiv = self.driver.find_element(By.CLASS_NAME,'reading-detail').find_elements(By.CLASS_NAME,'li')
     # groupHrefDiv = self.driver.find_element(By.TAG_NAME,'li')
     # a = self.driver.find_element_by_id('a').get_attribute('b').tex
     # List các href
     #  hrefList = []
 
     # Duyệt cái div đó lấy ra từng page
-    for childElement in groupHrefDiv:
-        print("Hello")
-        print(childElement.get_attribute('data-boxtype'))
+    # for childElement in groupHrefDiv:
+    #     print("Hello")
+    #     print(childElement.get_attribute('data-boxtype'))
         
 
 
